@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="LCC Livestreams" />
         <p className="description">
-          <iframe src="https://player.twitch.tv/?channel=lisburncricket&parent=startling-truffle-86bd3c.netlify.app&parent=www.startling-truffle-86bd3c.netlify.app" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+          <iframe src="https://player.twitch.tv/?channel=lisburncricket&parent=www.lisburncricket.club&parent=lisburncricket.club" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
         </p>
       </main>
 
